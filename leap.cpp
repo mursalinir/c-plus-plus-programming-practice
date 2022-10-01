@@ -1,3 +1,6 @@
+/*
+ this program is use for calculate leap year using function.
+ */
 #include <bits/stdc++.h>
 
 using namespace std;
